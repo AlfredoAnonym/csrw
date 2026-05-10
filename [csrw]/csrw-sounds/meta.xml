@@ -1,0 +1,110 @@
+<meta>
+    <info type="misc" name="Counter Strike: RenderWare sound pack" version="1.0" />
+
+    <!-- fire sounds -->
+    <file src="sounds/weapons/glock/glock18-1.wav" />
+    <file src="sounds/weapons/usp/usp_unsil-1.wav" />
+    <file src="sounds/weapons/p228/p228-1.wav" />
+    <file src="sounds/weapons/deagle/deagle-1.wav" />
+    <file src="sounds/weapons/elite/elite-1.wav" />
+    <file src="sounds/weapons/m3/m3-1.wav" />
+    <file src="sounds/weapons/xm1014/xm1014-1.wav" />
+    <file src="sounds/weapons/mac10/mac10-1.wav" />
+    <file src="sounds/weapons/mp5navy/mp5-1.wav" />
+    <file src="sounds/weapons/ump45/ump45-1.wav" />
+    <file src="sounds/weapons/p90/p90-1.wav" />
+    <file src="sounds/weapons/galil/galil-1.wav" />
+    <file src="sounds/weapons/ak47/ak47-1.wav" />
+    <file src="sounds/weapons/scout/scout_fire-1.wav" />
+    <file src="sounds/weapons/sg552/sg552-1.wav" />
+    <file src="sounds/weapons/sg550/sg550-1.wav" />
+    <file src="sounds/weapons/awp/awp1.wav" />
+    <file src="sounds/weapons/g3sg1/g3sg1-1.wav" />
+    <file src="sounds/weapons/tmp/tmp-1.wav" />
+    <file src="sounds/weapons/fireinhole.wav" />
+    <file src="sounds/weapons/famas/famas-1.wav" />
+    <file src="sounds/weapons/m4a1/m4a1_unsil-1.wav" />
+    <file src="sounds/weapons/aug/aug-1.wav" />
+
+    <file src="sounds/weapons/zoom.wav" /> <!-- AWP zoom -->
+    
+    <!-- grenade sounds -->
+    <file src="sounds/weapons/flashbang/flash.ogg" />
+    <file src="sounds/weapons/flashbang/flashbang_explode2.wav" />
+    
+    <file src="sounds/weapons/smokegrenade/sg_explode.wav" />
+    <file src="sounds/weapons/hegrenade/explode3.wav" />
+
+    <!-- c4 sounds -->
+    <file src="sounds/weapons/c4/c4_explode1.wav" />
+    <file src="sounds/weapons/c4/c4_beep1.wav" />
+    <file src="sounds/weapons/c4/c4_disarm.wav" />
+    <file src="sounds/weapons/c4/c4_plant.wav" />
+    
+    <!-- round sounds -->
+    <file src="sounds/radio/bombdef.wav" />
+    <file src="sounds/radio/bombpl.wav" />
+    <file src="sounds/radio/ctwin.wav" />
+    <file src="sounds/radio/hosdown.wav" />
+    <file src="sounds/radio/letsgo.wav" />
+    <file src="sounds/radio/locknload.wav" />
+    <file src="sounds/radio/moveout.wav" />
+    <file src="sounds/radio/rounddraw.wav" />
+    <file src="sounds/radio/terwin.wav" />
+    <file src="sounds/radio/rescued.wav" />
+    <file src="sounds/radio/hostagecompromised.wav" />
+
+    <!-- slot changing sounds -->
+    <file src="sounds/weapons/change/slot1.wav" />
+    <file src="sounds/weapons/change/slot2.wav" />
+    <file src="sounds/weapons/change/slot3.wav" />
+    <file src="sounds/weapons/change/slot4.wav" />
+    <file src="sounds/weapons/change/slot5.wav" />
+    <file src="sounds/weapons/change/slot6.wav" />
+    <file src="sounds/weapons/change/slot7.wav" />
+    <file src="sounds/weapons/change/slot8.wav" />
+  
+    <!-- shop sounds -->
+    <file src="sounds/buttons/weapon_cant_buy.wav" />
+    <file src="sounds/buttons/weapon_confirm.wav" />
+    
+    <!-- spec sounds -->
+    <file src="sounds/gui/whooshes/short_whoosh1.wav" />
+    
+    <!-- music (see meta data for authors) -->
+    <file src="sounds/music/drawmusic.mp3" />
+    <file src="sounds/music/lossmusic.mp3" />
+    <file src="sounds/music/winmusic.mp3" />
+    
+    <!-- items sounds -->
+    <file src="sounds/items/nvg_on.wav" />
+    <file src="sounds/items/nvg_off.wav" />
+    <file src="sounds/items/itempickup.wav" />
+
+    <!-- player damage sounds -->
+    <file src="sounds/player/bhit_helmet-1.wav" />
+    <file src="sounds/player/headshot1.wav" />
+    <file src="sounds/player/headshot2.wav" />
+    <file src="sounds/player/damage1.wav" />
+    <file src="sounds/player/damage2.wav" />
+    <file src="sounds/player/damage3.wav" />
+
+    <!-- hostage sounds -->
+    <file src="sounds/hostage/huse/letsdoit.wav" />
+    <file src="sounds/hostage/huse/letshurry.wav" />
+    <file src="sounds/hostage/huse/okletsgo.wav" />
+
+    <file src="sounds/hostage/hpain/hpain1.wav" />
+    <file src="sounds/hostage/hpain/hpain2.wav" />
+    <file src="sounds/hostage/hpain/hpain3.wav" />
+    <file src="sounds/hostage/hpain/hpain4.wav" />
+    <file src="sounds/hostage/hpain/hpain5.wav" />
+    <file src="sounds/hostage/hpain/hpain6.wav" />
+
+    <!-- misc -->
+    <file src="sounds/snapshot.wav" />
+
+    <!--
+        All rights reserved to VALVE.
+    -->
+</meta>
