@@ -1,0 +1,75 @@
+<meta>
+    <info type="misc" name="Counter Strike: RenderWare media pack" version="1.0" />
+    
+    <!-- skin images -->
+    <file src="images/skins/1-1.png" />
+    <file src="images/skins/1-2.png" />
+    <file src="images/skins/1-3.png" />
+    <file src="images/skins/1-4.png" />
+    <file src="images/skins/2-1.png" />
+    <file src="images/skins/2-2.png" />
+    <file src="images/skins/2-3.png" />
+    <file src="images/skins/2-4.png" />
+    
+    <!-- radar images -->
+    <file src="images/radar/A.png" />
+    <file src="images/radar/B.png" />
+    <file src="images/radar/C.png" />
+    <file src="images/radar/H.png" />
+    <file src="images/radar/camera.png" />
+    <file src="images/radar/centre.png" />
+    <file src="images/radar/tt.png" />
+    <file src="images/radar/ct.png" />
+    <file src="images/radar/hostage.png" />
+    <file src="images/radar/background.png" />
+    <file src="images/radar/disc.png" />
+    
+    <!-- weapon shop images -->
+    <file src="images/shop/equipment/defuse.png" />
+    <file src="images/shop/equipment/flashgrenade.png" />
+    <file src="images/shop/equipment/goggles.png" />
+    <file src="images/shop/equipment/hegrenade.png" />
+    <file src="images/shop/equipment/kevlar_helmet.png" />
+    <file src="images/shop/equipment/kevlar.png" />
+    <file src="images/shop/equipment/molotov.png" />
+    <file src="images/shop/equipment/smokegrenade.png" />
+    <file src="images/shop/equipment/decoy.png" />
+    
+    <file src="images/shop/pistols/9x19mm_sidearm.png" />
+    <file src="images/shop/pistols/40dual_elites.png" />
+    <file src="images/shop/pistols/45_tactical.png" />
+    <file src="images/shop/pistols/228compact.png" />
+    <file src="images/shop/pistols/five_seven.png" />
+    <file src="images/shop/pistols/night_hawk.png" />
+    
+    <file src="images/shop/rifles/bullpup.png" />
+    <file src="images/shop/rifles/clarion.png" />
+    <file src="images/shop/rifles/CV-47.png" />
+    <file src="images/shop/rifles/D3AU-1.png" />
+    <file src="images/shop/rifles/IDF_defender.png" />
+    <file src="images/shop/rifles/krieg_550commando.png" />
+    <file src="images/shop/rifles/krieg552.png" />
+    <file src="images/shop/rifles/M4A1.png" />
+    <file src="images/shop/rifles/magnum_sniper_rifle.png" />
+    <file src="images/shop/rifles/shmidt_scout.png" />
+    
+    <file src="images/shop/shotguns/leone_12_gauge_super.png" />
+    <file src="images/shop/shotguns/leone_YG1265_auto.png" />
+    
+    <file src="images/shop/submachine-guns/ES_C90.png" />
+    <file src="images/shop/submachine-guns/ingram_mac-10.png" />
+    <file src="images/shop/submachine-guns/KM_sub-machine_gun.png" />
+    <file src="images/shop/submachine-guns/KM_UMP45.png" />
+    <file src="images/shop/submachine-guns/schmidt_machine_pistol.png" />
+    
+    <!-- other images -->
+    <file src="images/cstrike.png" />
+
+    <!-- fonts -->
+    <file src="fonts/ccwstrike.ttf" />
+    <file src="fonts/coolvetica.ttf" />
+    
+    <!-- shaders -->
+    <file src="shaders/ped_wall.fx" /> <!-- by Ren -->
+    <file src="shaders/mta-helper.fx" />
+</meta>
