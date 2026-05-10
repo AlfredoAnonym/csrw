@@ -1,0 +1,78 @@
+<meta>
+	<info type="misc" description="Counter Strike: RenderWare model pack" version="1.0" />
+
+	<script src="replace.lua" type="client" />
+	<file src="replaceTexture.fx" />
+
+	<file src="skins/tt/1.txd" />
+	<file src="skins/tt/2.txd" />
+	<file src="skins/tt/3.txd" />
+	<file src="skins/tt/4.txd" />
+
+	<file src="skins/tt/1.dff" />
+	<file src="skins/tt/2.dff" />
+	<file src="skins/tt/3.dff" />
+	<file src="skins/tt/4.dff" />
+
+	<file src="skins/ct/1.txd" />
+	<file src="skins/ct/2.txd" />
+	<file src="skins/ct/3.txd" />
+	<file src="skins/ct/4.txd" />
+
+	<file src="skins/ct/1.dff" />
+	<file src="skins/ct/2.dff" />
+	<file src="skins/ct/3.dff" />
+	<file src="skins/ct/4.dff" />	
+
+	<file src="crosshairs/normal.png" />
+	<file src="crosshairs/sniper.png" />
+
+	<file src="effects/bullethitsmoke.png" />
+	<file src="effects/carwashspray.dff" />
+
+	<file src="objects/barrels/barrel.dff" />
+	<file src="objects/barrels/barrel1.txd" />
+	<file src="objects/barrels/barrel2.txd" />
+	<!--<file src="objects/barrels/barrel3.txd" />
+	<file src="objects/barrels/barrel4.txd" />
+	<file src="objects/barrels/barrel5.txd" />
+	<file src="objects/barrels/barrel6.txd" />
+	<file src="objects/barrels/barrel7.txd" />-->
+
+	<file src="objects/weapons/ak47.dff" />
+	<file src="objects/weapons/ak47.txd" />
+	<file src="objects/weapons/colt45.dff" />
+	<file src="objects/weapons/colt45.txd" />
+	<file src="objects/weapons/cuntgun.dff" />
+	<file src="objects/weapons/cuntgun.txd" />
+	<file src="objects/weapons/desert_eagle.dff" />
+	<file src="objects/weapons/desert_eagle.txd" />
+	<file src="objects/weapons/grenade.dff" />
+	<file src="objects/weapons/grenade.txd" />
+	<file src="objects/weapons/knifecur.dff" />
+	<file src="objects/weapons/knifecur.txd" />
+	<file src="objects/weapons/m4.dff" />
+	<file src="objects/weapons/m4.txd" />
+	<file src="objects/weapons/micro_uzi.dff" />
+	<file src="objects/weapons/micro_uzi.txd" />
+	<file src="objects/weapons/mp5lng.dff" />
+	<file src="objects/weapons/mp5lng.txd" />
+	<file src="objects/weapons/shotgspa.dff" />
+	<file src="objects/weapons/shotgspa.txd" />
+	<file src="objects/weapons/sniper.dff" />
+	<file src="objects/weapons/sniper.txd" />
+	<file src="objects/weapons/teargas.dff" />
+	<file src="objects/weapons/teargas.txd" />
+	<file src="objects/weapons/tec9.dff" />
+	<file src="objects/weapons/tec9.txd" />	
+	<!--<file src="objects/weapons/molotov.dff" />
+	<file src="objects/weapons/molotov.txd" />
+	<file src="objects/weapons/portalgun.dff" />
+	<file src="objects/weapons/portalgun.txd" />-->
+	<file src="objects/valve.png" />
+
+	<!--
+        All rights reserved to VALVE.
+        Ped models converted by Nobeus.
+    -->
+</meta>
