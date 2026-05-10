@@ -1,0 +1,40 @@
+--------------------------
+-- TopBarChat Changelog --
+-- By xXMADEXx			--
+--------------------------
+-- v1.0					--
+--------------------------
+
+- TopBarChat version 1.0 has been released to the public
+
+--------------------------
+-- v1.1					--
+--------------------------
+- Fixed an error with the max messages (was always one more then defined)
+- Added the bottom bar
+- Added an argument to select what bar to output to
+
+--------------------------
+-- v1.2					--
+--------------------------
+- Fixed a bug with the bar message operations (didn't output to the correct positions)
+
+--------------------------
+-- v1.3					--
+--------------------------
+- Added HEX Color code support
+- Added an optional lasting time argument
+	-- v1.3.1
+	Uploaded decompiled since RoS is no longer active.
+
+--------------------------
+-- v1.4					--
+--------------------------
+- Added messages fade in/out
+- Replaced timers with getTickCount ( )
+- Made it so the same messages can be showed more than once
+
+--------------------------
+-- v1.4.1					--
+--------------------------
+- Made a minor change in resizing the bar
