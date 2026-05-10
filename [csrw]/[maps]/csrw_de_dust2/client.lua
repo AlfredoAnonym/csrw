@@ -1,0 +1,7 @@
+local txd = engineLoadTXD("dust2.txd")
+engineImportTXD(txd, 13051)
+local col = engineLoadCOL("dust2.col")
+local dff = engineLoadDFF("dust2.dff")
+engineReplaceCOL(col, 13051)
+engineReplaceModel(dff, 13051)
+engineSetModelLODDistance(13051, 2000)
