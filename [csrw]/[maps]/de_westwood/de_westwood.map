@@ -1,0 +1,37 @@
+<map xmlns:edf="https://wiki.multitheftauto.com/wiki/Resource:Editor/EDF" edf:definitions="csrw,editor_main">
+    <object id="object (BinNt07_LA) (1)" dimension="0" model="1337" interior="0" scale="1" alpha="255" frozen="false" collisions="true" doublesided="false" breakable="false" posX="2034.7" posY="-1751.3" posZ="2744.2" rotX="0" rotY="0" rotZ="6"></object>
+    <spawntt id="spawntt (15)" interior="0" dimension="0" posX="1972.1" posY="-1686.3" posZ="2739.8999" rotX="0" rotY="0" rotZ="110" scale="0"></spawntt>
+    <spawntt id="spawntt (16)" interior="0" dimension="0" alpha="255" posX="1972.3" posY="-1683.6" posZ="2739.8999" rotX="0" rotY="0" rotZ="87.995" scale="0"></spawntt>
+    <spawntt id="spawntt (17)" interior="0" dimension="0" alpha="255" posX="1972.5" posY="-1680.9" posZ="2739.8999" rotX="0" rotY="0" rotZ="83.995" scale="0"></spawntt>
+    <spawntt id="spawntt (18)" interior="0" dimension="0" alpha="255" posX="1972.6" posY="-1678.4" posZ="2739.8999" rotX="0" rotY="0" rotZ="79.99" scale="0"></spawntt>
+    <spawntt id="spawntt (19)" interior="0" dimension="0" alpha="255" posX="1972.7" posY="-1675.9" posZ="2739.8999" rotX="0" rotY="0" rotZ="75.986" scale="0"></spawntt>
+    <spawntt id="spawntt (20)" interior="0" dimension="0" alpha="255" posX="1972.8" posY="-1673.7" posZ="2739.8999" rotX="0" rotY="0" rotZ="71.981" scale="0"></spawntt>
+    <spawntt id="spawntt (21)" interior="0" dimension="0" alpha="255" posX="1972.9" posY="-1671.7" posZ="2739.8999" rotX="0" rotY="0" rotZ="67.977" scale="0"></spawntt>
+    <spawntt id="spawntt (23)" interior="0" dimension="0" alpha="255" posX="2009.2" posY="-1671.9" posZ="2739.1001" rotX="0" rotY="0" rotZ="-98.019" scale="0"></spawntt>
+    <spawntt id="spawntt (24)" interior="0" dimension="0" alpha="255" posX="2008.7" posY="-1669.4" posZ="2739.1001" rotX="0" rotY="0" rotZ="-98.02" scale="0"></spawntt>
+    <spawntt id="spawntt (25)" interior="0" dimension="0" alpha="255" posX="2008.3" posY="-1667.2" posZ="2739.1001" rotX="0" rotY="0" rotZ="-104.02" scale="0"></spawntt>
+    <spawntt id="spawntt (26)" interior="0" dimension="0" alpha="255" posX="2007.8" posY="-1664.7" posZ="2739.1001" rotX="0" rotY="0" rotZ="-104.024" scale="0"></spawntt>
+    <spawntt id="spawntt (27)" interior="0" dimension="0" alpha="255" posX="2010" posY="-1664.3" posZ="2739.1001" rotX="0" rotY="0" rotZ="-98.024" scale="0"></spawntt>
+    <spawntt id="spawntt (28)" interior="0" dimension="0" alpha="255" posX="2010.5" posY="-1666.8" posZ="2739.1001" rotX="0" rotY="0" rotZ="-94.026" scale="0"></spawntt>
+    <spawntt id="spawntt (29)" interior="0" dimension="0" alpha="255" posX="2010.9" posY="-1669" posZ="2739.1001" rotX="0" rotY="0" rotZ="-98.026" scale="0"></spawntt>
+    <spawntt id="spawntt (30)" interior="0" dimension="0" alpha="255" posX="2011.4" posY="-1671.5" posZ="2739.1001" rotX="0" rotY="0" rotZ="-102.031" scale="0"></spawntt>
+    <spawntt id="spawntt (31)" interior="0" dimension="0" alpha="255" posX="2013.9" posY="-1671" posZ="2739.1001" rotX="0" rotY="0" rotZ="-100.036" scale="0"></spawntt>
+    <spawntt id="spawntt (32)" interior="0" dimension="0" alpha="255" posX="2013.4" posY="-1668.3" posZ="2739.1001" rotX="0" rotY="0" rotZ="-104.036" scale="0"></spawntt>
+    <spawntt id="spawntt (33)" interior="0" dimension="0" alpha="255" posX="2013.0996" posY="-1666.5996" posZ="2739.1001" rotX="0" rotY="0" rotZ="-110.045" scale="0"></spawntt>
+    <spawntt id="spawntt (34)" interior="0" dimension="0" alpha="255" posX="2012.7" posY="-1664.4" posZ="2739.1001" rotX="0" rotY="0" rotZ="-118.044" scale="0"></spawntt>
+    <spawnct id="spawnct (2)" interior="0" dimension="0" posX="2098.2" posY="-1749.8" posZ="2739.1001" rotX="0" rotY="0" rotZ="156" scale="1"></spawnct>
+    <spawnct id="spawnct (3)" interior="0" dimension="0" alpha="255" posX="2101.2" posY="-1749.2" posZ="2739.1001" rotX="0" rotY="0" rotZ="153.995" scale="0"></spawnct>
+    <spawnct id="spawnct (4)" interior="0" dimension="0" alpha="255" posX="2104.7" posY="-1748.5" posZ="2739.1001" rotX="0" rotY="0" rotZ="-172.01" scale="0"></spawnct>
+    <spawnct id="spawnct (5)" interior="0" dimension="0" alpha="255" posX="2106.8999" posY="-1748.2" posZ="2739.1001" rotX="0" rotY="0" rotZ="-178.013" scale="0"></spawnct>
+    <spawnct id="spawnct (6)" interior="0" dimension="0" alpha="255" posX="2109.1001" posY="-1748.2" posZ="2739.1001" rotX="0" rotY="0" rotZ="177.983" scale="0"></spawnct>
+    <spawnct id="spawnct (7)" interior="0" dimension="0" alpha="255" posX="2108.5" posY="-1745.2" posZ="2739.1001" rotX="0" rotY="0" rotZ="173.979" scale="0"></spawnct>
+    <spawnct id="spawnct (8)" interior="0" dimension="0" alpha="255" posX="2106.3" posY="-1745.5" posZ="2739.1001" rotX="0" rotY="0" rotZ="167.974" scale="0"></spawnct>
+    <spawnct id="spawnct (9)" interior="0" dimension="0" alpha="255" posX="2104.3" posY="-1745.7" posZ="2739.1001" rotX="0" rotY="0" rotZ="161.97" scale="0"></spawnct>
+    <spawnct id="spawnct (10)" interior="0" dimension="0" alpha="255" posX="2101" posY="-1745.9" posZ="2739.1001" rotX="0" rotY="0" rotZ="167.966" scale="0"></spawnct>
+    <spawnct id="spawnct (11)" interior="0" dimension="0" alpha="255" posX="2102.8" posY="-1748.4" posZ="2739.1001" rotX="0" rotY="0" rotZ="163.964" scale="0"></spawnct>
+    <spawnct id="spawnct (12)" interior="0" dimension="0" alpha="255" posX="2102.3999" posY="-1745.7" posZ="2739.1001" rotX="0" rotY="0" rotZ="157.96" scale="0"></spawnct>
+    <spawnct id="spawnct (13)" interior="0" dimension="0" alpha="255" posX="2099.2" posY="-1746.1" posZ="2739.1001" rotX="0" rotY="0" rotZ="149.956" scale="0"></spawnct>
+    <spawnct id="spawnct (14)" interior="0" dimension="0" alpha="255" posX="2099.7" posY="-1749.6" posZ="2739.1001" rotX="0" rotY="0" rotZ="171.952" scale="0"></spawnct>
+    <bombsite id="bombsite (1)" interior="0" dimension="0" size="3.5" posX="2064.4004" posY="-1800.2998" posZ="2739" rotX="0" rotY="0" rotZ="0" scale="0"></bombsite>
+    <camera id="camera (1)" targetZ="0" targetX="0" interior="0" fov="70" roll="0" targetY="0" posX="2070.8999" posY="-1772.7" posZ="2739.1001" rotX="0" rotY="0" rotZ="0" scale="1"></camera>
+</map>
