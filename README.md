@@ -3,4 +3,4 @@ MTA:SA Counter Strike Renderware Gamemode by Lopezloo - it doesn't work for some
 
 ![alt text](image.png)
 
-It crashes due to some integrity violation. It might be my problem, but I'll try to fix it so gamemode works better.
+It crashes due to some integrity violation. It might be my problem, but I'll try to fix it so gamemode works better, or it will also be for re-creating a similar gamemode with modern functions.
